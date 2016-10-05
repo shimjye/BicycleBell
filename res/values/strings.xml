@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">BicycleBell</string>
+    <string name="small_bell">small_bell</string>
+    <string name="big_bell">big_bell</string>
+    <string name="volume_title">Media Volume</string>
+
+</resources>
